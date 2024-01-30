@@ -1,0 +1,54 @@
+.container {
+  padding: 16px;
+  border: 5px solid black;
+  width: 20%;
+  height: 20%;
+}
+.info {
+  color: black;
+}
+body {
+  background-image: url("https://media.istockphoto.com/id/1322795750/photo/accessories-for-studying.jpg?s=1024x1024&w=is&k=20&c=lcwr3vLFkkQ2PUwIb5F1rDAFXxCbvFYtCPC7up7mGzY=");
+}
+input {
+  width: 50%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+#search {
+  align-content: center;
+}
+
+.courses {
+  float: right;
+}
+h1 {
+  text-align: center;
+}
+.login {
+  float: right;
+  font-size: 20px;
+}
+
+.registerbtn {
+  background-color: #04aa6d;
+  color: white;
+  padding: 16px 20px;
+  width: 100%;
+  border: none;
+
+  opacity: 0.9;
+}
+
+a {
+  color: black;
+  font-size: 20px;
+}
+
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
